@@ -1,0 +1,16 @@
+The number of original sequences is: 50
+The number of sequencing sequences is: 1412
+The number of Good Clusters is: 66
+The number of Bad Clusters is: 25
+The number of merged Clusters is: 58
+The number of Final Clusters is: 75
+Clustering time: 0.97 s 
+MSA time: 12.06 s 
+NMI: 0.978
+AMI: 0.971
+ARI: 0.941
+FMI: 0.944
+HOMO: 1.0
+COMP: 0.957
+Sequence recovery rate: 0.92
+Sequence reconstruction rate: 0.9978
